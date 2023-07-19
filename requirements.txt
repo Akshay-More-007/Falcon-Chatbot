@@ -1,2 +1,2 @@
 langchain
-HuggingFaceHub
+HuggingFace_Hub
