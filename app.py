@@ -1,5 +1,5 @@
-#pip install langchain
-#pip install huggingface_hub
+pip install langchain
+pip install huggingface_hub
 #pip install streamlit 
 
 import streamlit as st
