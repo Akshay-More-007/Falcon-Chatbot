@@ -1,6 +1,6 @@
 pip install langchain
 pip install huggingface_hub
-#pip install streamlit 
+pip install streamlit 
 
 import streamlit as st
 from langchain import HuggingFaceHub
